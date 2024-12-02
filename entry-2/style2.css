@@ -1,6 +1,6 @@
  /* <uniquifier>: Use a unique and descriptive class name
  <weight>: Use a value from 300 to 800 */
 
-body{
-    font-family: "host grotesk"
+p{
+    font-family: "host grotesk", "sans-serif"
 }
