@@ -1,6 +1,25 @@
-
-
-body{
-    color: #00FF73;
+h1{
+    color: #ff0000;
     font-family: "host grotesk", "sans-serif";
 }
+
+h2{
+    color: #ff0000;
+    font-family: "host grotesk", "sans-serif";
+}
+
+h3{
+    color: #ff00ae;
+    font-family: "host grotesk", "sans-serif";
+}
+
+p{
+    color: #770e0e;
+    font-family: "host grotesk", "sans-serif";
+}
+
+a{
+    color: #770e0e;
+    font-family: "host grotesk", "sans-serif";
+}
+
