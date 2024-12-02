@@ -2,5 +2,7 @@
  <weight>: Use a value from 300 to 800 */
 
 p{
-    font-family: "host grotesk", "sans-serif"
+    color: #00FF73;
+    font-family: "host grotesk", "sans-serif";
+    font-size: 18px;
 }
