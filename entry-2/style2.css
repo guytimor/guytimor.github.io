@@ -1,8 +1,0 @@
- /* <uniquifier>: Use a unique and descriptive class name
- <weight>: Use a value from 300 to 800 */
-
-p{
-    color: #00FF73;
-    font-family: "host grotesk", "sans-serif";
-    font-size: 18px;
-}
