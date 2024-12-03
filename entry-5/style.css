@@ -12,10 +12,10 @@ p{
 .container{
     width:500px;
     height:500px;
-    background-color:blue;
+    background-color:rgb(170, 170, 255);
     position:absolute;
     margin-top:20px;
-    top: 2vw;
+    top: 4vw;
   }
   
   .bottom-lip{
