@@ -1,11 +1,11 @@
 .plate {
     color: #000000;
     font-family: "host grotesk", "sans-serif";
-    width: 500px;
-    height: 500px;
+    width: 800px;
+    height: 800px;
     background-color: #afddfe;
     border-radius: 50%;
-    padding: 800px #afddfe;
+    padding: 10px #afddfe;
     border: 200px solid #90b6d1;
     box-sizing: border-box;
 }
