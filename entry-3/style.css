@@ -10,3 +10,7 @@
     box-sizing: border-box;
     text-align: center;
 }
+
+body {
+    background-image: url("ginghambackground.jpg");
+  }
