@@ -1,0 +1,9 @@
+.plate{
+    background-color: #afddfe;
+    color: #000000;
+    font-family: "host grotesk", "sans-serif";
+    width: 500px;
+    height: 500px;
+    padding: 10px #afddfe;
+    border: 200px #8cb4d0;
+}
