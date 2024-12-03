@@ -10,17 +10,17 @@ p{
 }
 
 .container{
-    width:500px;
+    width:520px;
     height:500px;
     background-color:rgb(170, 170, 255);
     position:absolute;
-    left:20vw;
+    left:25vw;
     margin-top:20px;
     top: 10vw;
   }
   
   .bottom-lip{
-    width:480px;
+    width:500px;
     height:60px;
     background-color:red;
     position:absolute;
@@ -39,18 +39,18 @@ p{
   }
 
   #bot-one{
-    left:10px;
+    left:30px;
   }
 
   #bot-two{
-    left:130px;
+    left:150px;
   }
 
   #bot-three{
-    left:250px;
+    left:270px;
   }
 
   #bot-four{
-    left:370px;
+    left:390px;
   }
 
