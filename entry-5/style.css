@@ -29,7 +29,7 @@ p{
     transition:500ms ease-in-out;
   }
 
-  .teeth{
+  .bottom-teeth{
     width:60px;
     height:90px;
     background-color:white;
@@ -54,3 +54,37 @@ p{
     left:400px;
   }
 
+  .bottom-lip{
+    width:500px;
+    height:60px;
+    background-color:red;
+    position:absolute;
+    bottom:20px;
+    left:10px;
+    transition:500ms ease-in-out;
+  }
+
+  .top-teeth{
+    width:60px;
+    height:90px;
+    background-color:white;
+    position:absolute;
+    top:50px;
+    transition:500ms ease-in-out;
+  }
+
+  #top-one{
+    left:40px;
+  }
+
+  #top-two{
+    left:160px;
+  }
+
+  #top-three{
+    left:280px;
+  }
+
+  #top-four{
+    left:400px;
+  }
