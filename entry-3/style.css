@@ -1,4 +1,5 @@
 .plate{
+    display: inline-block;
     box-sizing: border-box;
     background-color: #afddfe;
     color: #000000;
