@@ -3,14 +3,26 @@
     font-family: "host grotesk", "sans-serif";
     width: 800px;
     height: 800px;
-    background-color: #afddfe;
+    background-color: #ffccf2;
     border-radius: 50%;
-    padding: 10px #46e66e;
-    border: 100px solid #90b6d1;
+    /* padding: 10px; */
+    border: 80px solid #ecbbe0;
     box-sizing: border-box;
     text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 10px);
 }
 
 body {
     background-image: url("ginghambackground.jpg");
   }
+
+.plate-text{
+    display: flex;
+    width: 60%;
+}
+
